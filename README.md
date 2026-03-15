@@ -1,34 +1,28 @@
 # QA Portfolio – Luiza Rampazzo
 
-Este repositório contém exemplos de documentação e execução de testes realizados como parte do meu aprendizado em Quality Assurance.
+This repository contains examples of manual testing documentation created as part of my learning journey in Quality Assurance.
 
-## Objetivo
+## Skills Demonstrated
 
-Demonstrar habilidades em:
+- Manual testing
+- Test case design
+- Bug reporting
+- Test planning
+- Exploratory testing
 
-- Testes manuais
-- Criação de casos de teste
-- Relatórios de bugs
-- Testes exploratórios
-- Documentação de QA
+## Repository Structure
 
-## Projetos
+test-plan  
+Contains test planning documentation.
 
-### Test Plan
-Plano de testes para funcionalidade de login de um sistema web.
+test-cases  
+Contains examples of test case design.
 
-### Test Cases
-Casos de teste documentados para validar login, autenticação e erros de acesso.
+bug-reports  
+Contains bug report documentation.
 
-### Bug Reports
-Relatórios de bugs encontrados durante execução dos testes.
-
-### Exploratory Testing
-Notas de testes exploratórios realizados em aplicações web.
-
-## Ferramentas
+## Tools
 
 - GitHub
 - Markdown
-- Test Case Design
-- Documentação de QA
+- Manual testing techniques
