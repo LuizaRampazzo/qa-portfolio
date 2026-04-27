@@ -1,6 +1,6 @@
 # QA Portfolio – Luiza Rampazzo
 
-This repository contains examples of manual testing documentation created as part of my learning journey in Quality Assurance.
+This portfolio demonstrates my QA skills through real-wordl test scenarios, including manual testing, bug reporting, and test planning applied to a demo application.
 
 ## Skills Demonstrated
 
