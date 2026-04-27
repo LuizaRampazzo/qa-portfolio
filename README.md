@@ -1,28 +1,38 @@
 # QA Portfolio – Luiza Rampazzo
 
-This portfolio demonstrates my QA skills through real-wordl test scenarios, including manual testing, bug reporting, and test planning applied to a demo application.
+## 👩‍💻About Me
+I am a beginner QA (Quality Assurance) focused on manual testing. This portfolio demonstrates my skills through real-world testing scenarios. 
 
-## Skills Demonstrated
+## 🧠Skills
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- Test Planning
+- Exploratory Testing
 
-- Manual testing
-- Test case design
-- Bug reporting
-- Test planning
-- Exploratory testing
+## 🧪Projects
 
-## Repository Structure
+### 🔐Login Functionality Testing (Saucedemo)
 
-test-plan  
-Contains test planning documentation.
+**Application:** Saucedemo (demo e-commerce website)
 
-test-cases  
-Contains examples of test case design.
+**Scope:**
+Testing the login functionality with valid and invalid scenarios.
 
-bug-reports  
-Contains bug report documentation.
+**What I did:**
+- Created test cases
+- Executed manual tests
+- Reported bugs
 
-## Tools
+📂Check the project here:
+- Test Plan
+- Test Cases
+- Bug Report
 
-- GitHub
+## 🛠️Tools
+- Github
 - Markdown
-- Manual testing techniques
+- Manual Testing Techniques
+
+##📬Contact
+LinkedIn: linkedin.com/in/luiza-rampazzo-02416a290
